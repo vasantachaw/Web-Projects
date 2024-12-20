@@ -1,0 +1,178 @@
+li {
+    margin-left: 5%;
+    display: inline-table;
+}
+
+.formfill {
+    margin-top: 20%;
+    margin-left: 35%;
+    width: 100%;
+}
+
+.lll {
+
+    border-radius: 9px;
+    width: 30%;
+    padding: 4%;
+    margin-left: 10%;
+    border: none;
+    border: 1px solid lightgreen;
+    text-align: center;
+    margin: 1%;
+
+}
+
+.xxx {
+    width: 29.5%;
+    padding: 4%;
+    margin: 1%;
+    margin-left: 5%;
+    border: none;
+    border-radius: 9px;
+    transition-duration: 0.5s;
+    border: 1px solid lightgreen;
+    outline: none;
+    text-align: center;
+}
+
+.mmm {
+    width: 38%;
+    padding: 4%;
+    margin: 1% 4.5%;
+    border-radius: 9px;
+    transition-duration: 0.5s;
+    outline: none;
+    border: none;
+    border: 1px solid lightgreen;
+}#mmmm:hover{
+    background-color: lightskyblue;
+}
+
+.form {
+
+    display: inline-flex;
+    background: #C9D6FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border: 2px solid black;
+    width: 80%;
+    border-radius: 10px;
+    padding: 10%;
+    border: 1px solid lightgreen;
+    margin-left: 10%;
+    margin-top:0%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.formfill {
+
+    background: #C9D6FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    width: 90%;
+    border-radius: 10px;
+    padding: 5%;
+    border: 0.5px solid lightgreen;
+    margin-left: 10%;
+    margin-top: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+input {
+    padding: 4%;
+    outline: none;
+    text-align: center;
+    margin: 1%;
+    border: 1px solid lightgreen;
+    font-size: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 5px;
+}
+
+.delete {
+    margin-left: 5%;
+    transition-duration: 0.5s;
+}.delete:hover{
+    background-color: salmon;
+}
+
+table {
+    display: inline-flex;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border: 1px solid lightgreen;
+    margin: 0% 0% 0% 0%;
+    background: #C9D6FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border-radius: 10px;
+    padding: 6px;
+}
+
+
+
+td {
+    border: 1px solid lightgreen;
+    border-spacing: 10%;
+    padding: 7px;
+    font-family: monospace;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+}
+
+th {
+    border: 1px solid lightgreen;
+    border-spacing: 10%;
+    border-radius: 3px;
+    padding: 7px;
+    text-align: center;
+    font-family: monospace;
+    background-color: lightgray;
+}
+
+
+.up {
+    padding: 4%;
+    width: 45%;
+    text-align: center;
+}
+
+.updatedata {
+    position: absolute;
+    background: #C9D6FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border: 2px solid black;
+    width: 17.2%;
+    border-radius: 10px;
+    padding: 1.4%;
+    border: 1px solid lightgreen;
+    margin-left: 2.5%;
+   
+    margin-top: 1%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+body {
+    background: #C9D6FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.up1 {
+    padding: 3.5%;
+    transition-duration: 0.5px;
+    width: 40%;
+    outline: none;
+    border: 1px solid lightgreen;
+    border-radius: 10px;
+    text-align: center;
+}.up1:hover{
+    background-color: lightgreen;
+}
